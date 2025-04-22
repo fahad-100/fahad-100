@@ -28,6 +28,14 @@ I'm a passionate Frontend Developer currently enrolled in a 6-month Frontend Dev
 - **Backend Development (Upcoming)** – To begin after completion of frontend course
 - **Diploma in Cost and Management Accounting (In Progress)** – Institute of Cost and Management Accountants Pakistan (ICMAP)
 
+## 📌 Currently
+
+- 🔨 Working on: Portfolio website and small front-end projects
+- 🌱 Learning: JavaScript ES6+, Tailwind CSS, and React (soon)
+- 🎯 Goal: To land a front-end internship and start freelancing
+- 💬 Ask me about: Front-end development, responsive design, or GitHub setup
+- 📫 Reach me at: [mfahadshahzad348@gmail.com](mailto:mfahadshahzad348@gmail.com)
+
 ## 📣 Contact
 - **Email:** [mfahadshahzad348@gmail.com](mailto:mfahadshahzad348@gmail.com)
 - **WhatsApp:** [Message Me](https://wa.me/923300247295)
